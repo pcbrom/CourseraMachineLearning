@@ -1,3 +1,7 @@
+---
+title: "Classification model with Random Forest using fine-tuning."
+author: "PEDRO CARVALHO BROM"
+---
 
 ```{r }
 ## Instructions
@@ -242,10 +246,3 @@ pml_write_files(answers)
 # [5] Brian Ripley (2016). tree: Classification and Regression Trees. R package version 
 # 1.0-37. https://CRAN.R-project.org/package=tree
 ```
-
-
----
-title: "final_projectML.R"
-author: "pcbrom"
-date: "Fri Oct 14 22:00:02 2016"
----
